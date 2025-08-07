@@ -1,0 +1,27 @@
+@model IEnumerable<LibraryManagement.ViewModels.CustomerViewModel>
+
+<h2>Customers List</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Name</td>
+                <td>
+                    <a href="/Customer/Details/@customer.CustomerId">View</a> |
+                    <a href="/Customer/Edit/@customer.CustomerId">Edit</a> |
+                    <a href="/Customer/Delete/@customer.CustomerId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Customer/Create">Add New Customer</a>
+

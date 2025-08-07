@@ -1,0 +1,12 @@
+@model LibraryManagement.ViewModels.BookViewModel
+
+<h2>Book Details</h2>
+
+<p><strong>Title:</strong> @Model.Title</p>
+<p><strong>Genre:</strong> @Model.Genre</p>
+<p><strong>Author:</strong> @Model.AuthorName</p>
+<p><strong>Branch:</strong> @Model.BranchName</p>
+
+<a href="/Book/Edit/@Model.BookId" class="btn btn-warning">Edit</a>
+<a href="/Book/Index" class="btn btn-secondary">Back to List</a>
+

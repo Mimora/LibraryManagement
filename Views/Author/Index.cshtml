@@ -1,0 +1,27 @@
+@model IEnumerable<LibraryManagement.ViewModels.AuthorViewModel>
+
+<h2>Authors List</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var author in Model)
+        {
+            <tr>
+                <td>@author.Name</td>
+                <td>
+                    <a href="/Author/Details/@author.AuthorId">View</a> | 
+                    <a href="/Author/Edit/@author.AuthorId">Edit</a> | 
+                    <a href="/Author/Delete/@author.AuthorId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Author/Create">Add New Author</a>
+

@@ -1,0 +1,13 @@
+@model LibraryManagement.ViewModels.AuthorViewModel
+
+<h2>Are you sure you want to delete this author?</h2>
+
+<p><strong>Name:</strong> @Model.Name</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="AuthorId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a href="/Author/Index">Back to List</a>
+

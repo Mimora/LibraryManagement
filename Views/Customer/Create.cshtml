@@ -1,0 +1,12 @@
+@model LibraryManagement.ViewModels.CustomerViewModel
+
+<h2>Add New Customer</h2>
+
+<form asp-action="Create" method="post">
+    <label>Name</label>
+    <input asp-for="Name" class="form-control" />
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a href="/Customer/Index">Back to List</a>

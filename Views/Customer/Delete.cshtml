@@ -1,0 +1,12 @@
+@model LibraryManagement.ViewModels.CustomerViewModel
+
+<h2>Are you sure you want to delete this customer?</h2>
+
+<p><strong>Name:</strong> @Model.Name</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="CustomerId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a href="/Customer/Index">Back to List</a>

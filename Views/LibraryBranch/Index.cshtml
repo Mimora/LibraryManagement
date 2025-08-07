@@ -1,0 +1,27 @@
+@model IEnumerable<LibraryManagement.ViewModels.LibraryBranchViewModel>
+
+<h2>Library Branches</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Branch Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var branch in Model)
+        {
+            <tr>
+                <td>@branch.BranchName</td>
+                <td>
+                    <a href="/LibraryBranch/Details/@branch.LibraryBranchId">View</a> |
+                    <a href="/LibraryBranch/Edit/@branch.LibraryBranchId">Edit</a> |
+                    <a href="/LibraryBranch/Delete/@branch.LibraryBranchId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/LibraryBranch/Create">Add New Branch</a>
+

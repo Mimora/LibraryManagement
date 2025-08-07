@@ -1,0 +1,13 @@
+@model LibraryManagement.ViewModels.LibraryBranchViewModel
+
+<h2>Add New Library Branch</h2>
+
+<form asp-action="Create" method="post">
+    <label>Branch Name</label>
+    <input asp-for="BranchName" class="form-control" required />
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a href="/LibraryBranch/Index">Back to List</a>
+

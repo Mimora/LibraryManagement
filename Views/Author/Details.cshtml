@@ -1,0 +1,11 @@
+@model LibraryManagement.ViewModels.AuthorViewModel
+
+<h2>Author Details</h2>
+
+<p><strong>Author ID:</strong> @Model.AuthorId</p>
+<p><strong>Name:</strong> @Model.Name</p>
+
+<a href="/Author/Edit/@Model.AuthorId" class="btn btn-warning">Edit</a>
+<a href="/Author/Index" class="btn btn-secondary">Back to List</a>
+
+

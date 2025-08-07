@@ -1,0 +1,12 @@
+@model LibraryManagement.ViewModels.AuthorViewModel
+
+<h2>Add New Author</h2>
+
+<form asp-action="Create" method="post">
+    <label>Name</label>
+    <input asp-for="Name" class="form-control" required />
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a href="/Author/Index">Back to List</a>

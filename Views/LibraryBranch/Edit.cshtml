@@ -1,0 +1,15 @@
+@model LibraryManagement.ViewModels.LibraryBranchViewModel
+
+<h2>Edit Library Branch</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="LibraryBranchId" />
+
+    <label>Branch Name</label>
+    <input asp-for="BranchName" class="form-control" required />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a href="/LibraryBranch/Index">Back to List</a>
+

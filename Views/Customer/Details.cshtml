@@ -1,0 +1,11 @@
+@model LibraryManagement.ViewModels.CustomerViewModel
+
+<h2>Customer Details</h2>
+
+<p><strong>Customer ID:</strong> @Model.CustomerId</p>
+<p><strong>Name:</strong> @Model.Name</p>
+
+<a href="/Customer/Edit/@Model.CustomerId" class="btn btn-warning">Edit</a>
+<a href="/Customer/Index" class="btn btn-secondary">Back to List</a>
+
+

@@ -1,0 +1,14 @@
+@model LibraryManagement.ViewModels.AuthorViewModel
+
+<h2>Edit Author</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="AuthorId" />
+
+    <label>Name</label>
+    <input asp-for="Name" class="form-control" required />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a href="/Author/Index">Back to List</a>

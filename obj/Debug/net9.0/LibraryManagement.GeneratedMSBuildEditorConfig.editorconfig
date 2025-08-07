@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibraryManagement
+build_property.RootNamespace = LibraryManagement
+build_property.ProjectDir = /Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Author/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Author/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Author/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/LibraryBranch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicmFyeUJyYW5jaC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/LibraryBranch/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicmFyeUJyYW5jaC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/LibraryBranch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicmFyeUJyYW5jaC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/LibraryBranch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicmFyeUJyYW5jaC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/LibraryBranch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicmFyeUJyYW5jaC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cleveramelie/文稿/FDU-Vancouver/6809-Applications/ProjectB/LibraryManagement_Project B/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ntohq707r3
