@@ -132,8 +132,16 @@ dotnet run
 - Ensure `library.db` exists; if not, run `dotnet ef database update`.
 - The project requires `.NET 9.0+`.
 - The application should start successfully using `dotnet run`.
+---
+
+## **Previews**
+<img width="1097" height="655" alt="截屏2025-08-06 19 57 00" src="https://github.com/user-attachments/assets/85a01196-1216-4df7-aaa5-4c2faa89f460" />
+<img width="1097" height="767" alt="截屏2025-08-06 19 56 27" src="https://github.com/user-attachments/assets/c31ad350-86c5-43cc-b955-af567300b051" />
+<img width="1097" height="923" alt="截屏2025-08-06 19 56 37" src="https://github.com/user-attachments/assets/044f9f18-f30b-4d82-824a-d712538c4264" />
+<img width="1097" height="747" alt="截屏2025-08-06 19 56 46" src="https://github.com/user-attachments/assets/4bbd9fd7-bf1e-459d-9f99-279cf55c9079" />
+<img width="1097" height="747" alt="截屏2025-08-06 19 56 52" src="https://github.com/user-attachments/assets/afd92be7-df67-4e23-95fe-c79ca47c3d37" />
 
 
 
- **This project is fully implemented and ready for submission!**
+
 
