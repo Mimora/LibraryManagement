@@ -1188,3 +1188,4 @@
 /Users/cleveramelie/文稿/Career/GitHub Projects/LibraryManagement/obj/Debug/net8.0/LibraryManagement.pdb
 /Users/cleveramelie/文稿/Career/GitHub Projects/LibraryManagement/obj/Debug/net8.0/LibraryManagement.genruntimeconfig.cache
 /Users/cleveramelie/文稿/Career/GitHub Projects/LibraryManagement/obj/Debug/net8.0/ref/LibraryManagement.dll
+/Users/cleveramelie/文稿/Career/GitHub Projects/LibraryManagement/obj/Debug/net8.0/LibraryManagement.sourcelink.json

@@ -43,13 +43,13 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 builder.Services.AddAuthentication()
     .AddGoogle(googleOptions =>
     {
-        googleOptions.ClientId = builder.Configuration["Authentication:Google:ClientId"];
-        googleOptions.ClientSecret = builder.Configuration["Authentication:Google:ClientSecret"];
+        googleOptions.ClientId = Environment.GetEnvironmentVariable("GOOGLE_CLIENT_ID");
+        googleOptions.ClientSecret = Environment.GetEnvironmentVariable("GOOGLE_CLIENT_SECRET");
     })
     .AddFacebook(facebookOptions =>
     {
-    facebookOptions.AppId = builder.Configuration["Authentication:Facebook:AppId"];
-    facebookOptions.AppSecret = builder.Configuration["Authentication:Facebook:AppSecret"];
+    facebookOptions.AppId = Environment.GetEnvironmentVariable("FACEBOOK_APP_ID");
+    facebookOptions.AppSecret = Environment.GetEnvironmentVariable("FACEBOOK_APP_SECRET");
 
     facebookOptions.Scope.Add("email");
     });
